@@ -19,6 +19,6 @@
         <input type="submit" name="submit" value="LOGIN"
          class="default btnhover">
     </form>
-    <p class="me"></p>
+    
 </body>
 </html>
